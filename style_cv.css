@@ -41,7 +41,11 @@ h4 {
   font-size: 16px;
   color: #000000;
   letter-spacing: 0;
+<<<<<<< HEAD
   line-height: 26px;
+=======
+  line-height: 25px;
+>>>>>>> 5f9a29d5117e61f805245e1636f9ab9719d6992b
 }
 
 .bold_text {
@@ -49,6 +53,7 @@ h4 {
   font-size: 16px;
   color: #000000;
   letter-spacing: 0;
+<<<<<<< HEAD
   line-height: 40px;
 }
 
@@ -66,6 +71,9 @@ h4 {
   color: #000000;
   letter-spacing: 0;
   line-height: 10px;
+=======
+  line-height: 35px;
+>>>>>>> 5f9a29d5117e61f805245e1636f9ab9719d6992b
 }
 
 .subheader {
@@ -107,11 +115,16 @@ h4 {
 /* Portfolio */
 .portfolio {
   background-color: #FFCC33;
+<<<<<<< HEAD
+=======
+  height: 500px;
+>>>>>>> 5f9a29d5117e61f805245e1636f9ab9719d6992b
 }
 
 /* About Me */
 .about_me {
   background-color: #FFFFFF;
+<<<<<<< HEAD
 }
 
 .about_me .html_css {
@@ -144,6 +157,9 @@ h4 {
 
 .about_me .btn {
   border-radius: 30px;
+=======
+  height: 500px;
+>>>>>>> 5f9a29d5117e61f805245e1636f9ab9719d6992b
 }
 
 /* What I Do */
